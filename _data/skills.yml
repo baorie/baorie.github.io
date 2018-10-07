@@ -5,6 +5,11 @@ languages:
   - item: GNU Octave
   - item: HTML
   - item: CSS
+  - item: Exposure to C/C++ and JavaScript
+
+frameworks:
+  - item: Numpy
+  - item: Matplotlib
 
 tools:
   - item: Bash
