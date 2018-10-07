@@ -1,10 +1,10 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+name: Rielle Quiambao
+title: Rielle Quiambao
+description: Data-focused software engineer and aspiring data scientist
 url: https://brittanychiang.com/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: rielle.quiambao@gmail.com
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: https://brittanychiang.com/resume.pdf

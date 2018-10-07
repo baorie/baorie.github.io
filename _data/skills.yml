@@ -5,7 +5,9 @@ languages:
   - item: GNU Octave
   - item: HTML
   - item: CSS
-  - item: Exposure to C/C++ and JavaScript
+  - item: NoSQL
+  - item: Exposure to C/C++
+  - item: Exposure to JavaScript
 
 frameworks:
   - item: Numpy
