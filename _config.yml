@@ -2,7 +2,7 @@
 name: Rielle Quiambao
 title: Rielle Quiambao
 description: Data-focused software engineer and aspiring data scientist
-url: https://brittanychiang.com/
+url: https://baorie.github.io
 baseurl: ""
 email: rielle.quiambao@gmail.com
 cover: https://baorie.github.io/img/og.png
@@ -11,16 +11,12 @@ resume: https://baorie.github.io/resume.pdf
 social:
   - title: email
     url: mailto:rielle.quiambao@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/baorie
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/riellemq/
+  - title: medium
+    url: https://medium.com/@rielle.quiambao
 
 # Build settings
 markdown: kramdown
