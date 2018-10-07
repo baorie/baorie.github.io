@@ -17,6 +17,8 @@ social:
     url: https://www.linkedin.com/in/riellemq/
   - title: medium
     url: https://medium.com/@rielle.quiambao
+  - tile: meetup
+    url: https://www.meetup.com/members/259900448/
 
 # Build settings
 markdown: kramdown
